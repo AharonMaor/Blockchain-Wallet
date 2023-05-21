@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bloom-filters": "^3.0.0",
+    "crypto": "^1.0.1",
+    "elliptic": "^6.5.4",
+    "fs": "^0.0.1-security",
+    "fully-connected-topology": "^1.1.1",
+    "merkletreejs": "^0.3.9",
+    "savjeecoin": "^1.0.1",
+    "secp256k1": "^5.0.0"
+  }
+}
